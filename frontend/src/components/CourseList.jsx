@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import CourseCard from "./CourseCard";
-const API_BASE_URL = `http://localhost:5000`;
+const API_BASE_URL = `https://internship-task-8jbn.onrender.com`;
 
 const CourseList = () => {
   const [courses, setCourses] = useState([]);
