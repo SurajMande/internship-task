@@ -57,7 +57,7 @@ Create a `.env` file in the `backend/` directory with the following content:
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://samande371322:Zol5kwwvuRnXNV2M@cluster0.b24vzby.mongodb.net/internship
+MONGODB_URI=mongodb+srv://samande371322:8jfyCKGWcSNLXq17@cluster0.b24vzby.mongodb.net/internship
 ```
 
 ### 3. Run the Server
